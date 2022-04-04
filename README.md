@@ -22,7 +22,7 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-8DD6F9?style=for-the-badge&logo=Spring&color=gray)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-8DD6F9?style=for-the-badge&logo=SpringBoot&color=gray)
 <br />
 
 ---------
@@ -32,6 +32,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub%20-%23323330.svg?logo=GitHub&style=for-the-badge&logoColor=black&color=white)](https://github.com/Tyl3r-Engel)
 [![LinkedIn](https://img.shields.io/badge/Gmail%20-%23323330.svg?logo=Gmail&style=for-the-badge&logoColor=red&color=white)](mailto:engelcrag@gmail.com)
 <br />
-- :computer: I'm currently working on a Spring API
-- :mortar_board: I'm currently learning Java :coffee: Spring
+- :computer: I'm currently working on a Spring Boot API
+- :mortar_board: I'm currently learning about Java :coffee: Spring Boot
 - :round_pushpin: Located: Peoria, AZ :cactus:
