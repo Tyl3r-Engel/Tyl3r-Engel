@@ -1,6 +1,6 @@
 # Welcome :wave:
 ### Tyler's Tech
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tyl3r-Engel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tyl3r-Engel&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ##### FrontEnd <br />
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
