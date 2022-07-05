@@ -33,6 +33,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub%20-%23323330.svg?logo=GitHub&style=for-the-badge&logoColor=black&color=white)](https://github.com/Tyl3r-Engel)
 [![Gmail](https://img.shields.io/badge/Gmail%20-%23323330.svg?logo=Gmail&style=for-the-badge&logoColor=red&color=white)](mailto:engelcrag@gmail.com)
 <br />
-- :computer: I'm currently working on an app to scrape job boards
-- :mortar_board: I'm currently learning about Web Scraping
-- :round_pushpin: Located: Peoria, AZ :cactus:
+- :computer: I'm currently working on a set of apps one being a bank and the other to work with the bank to "trade" stocks
+- :mortar_board: I'm currently learning about JWTs / auth / application security
+- :round_pushpin: Located: AZ :cactus:
